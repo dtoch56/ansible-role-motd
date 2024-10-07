@@ -1,2 +1,1 @@
 ---
-ansible_user_home: "/home/{{ ansible_user_user_name }}"

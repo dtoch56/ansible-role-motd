@@ -1,9 +1,9 @@
 Message Of The Day
 =========
 
-[![CI](https://github.com/dtoch56/ansible-role-motd/workflows/CI/badge.svg?event=push)](https://github.com/dtoch56/ansible-role-ssh/actions?query=workflow%3ACI)
-[![Release](https://github.com/dtoch56/ansible-role-motd/workflows/Release/badge.svg?event=push)](https://github.com/dtoch56/ansible-role-ssh/actions?query=workflow%3ARelease)
-[![Role](https://img.shields.io/ansible/role/53355)](https://galaxy.ansible.com/dtoch56/ssh)
+[![CI](https://github.com/dtoch56/ansible-role-motd/workflows/CI/badge.svg?event=push)](https://github.com/dtoch56/ansible-role-motd/actions?query=workflow%3ACI)
+[![Release](https://github.com/dtoch56/ansible-role-motd/workflows/Release/badge.svg?event=push)](https://github.com/dtoch56/ansible-role-motd/actions?query=workflow%3ARelease)
+[![Role](https://img.shields.io/ansible/role/53355)](https://galaxy.ansible.com/dtoch56/motd)
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Galaxy%20Downloads&query=%24.download_count&url=https%3A%2F%2Fgalaxy.ansible.com%2Fapi%2Fv1%2Froles%2F53355%2F%3Fformat%3Djson)](https://galaxy.ansible.com/dtoch56/ssh)
 
 
