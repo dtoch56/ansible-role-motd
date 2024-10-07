@@ -1,0 +1,14 @@
+---
+- name: motd | Debian
+  include_tasks: debian.yml
+  when: ansible_os_family == "Debian"
+
+- name: motd | RedHat
+  include_tasks: redhat.yml
+  when: ansible_os_family == "RedHat"
+
+- name: motd | Configuring MOTD
+  template:
+    src: etc/motd.j2
+    dest: /etc/motd
+  become: true
